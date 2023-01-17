@@ -38,7 +38,7 @@ class MyDrawer extends StatelessWidget {
                      //     Get.off(Categories());
                         },
                         icon: Icon(Icons.close),
-                        color: Colors.white,
+                        color: Colors.black,
                         iconSize: 30,
                       ),
                     ],
